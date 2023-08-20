@@ -3,5 +3,11 @@
 #
 # Examples:
 #
-#   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
-#   Character.create(name: "Luke", movie: movies.first)
+#   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }]
+
+Character.create(name: "Web ID")
+Character.create(name: "Name")
+Character.create(name: "Gender")
+Character.create(name: "Class")
+Character.create(name: "Age")
+Character.create(name: "Sponsored by")
